@@ -28,5 +28,4 @@ Focused on **LLMs, Agentic AI, and MLOps**, combining strong engineering foundat
 
 - 📧 Email: **nizarkarkar2019@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/karkar-nizar/  
-- 💻 GitHub: https://github.com/nizar-karKar
 
