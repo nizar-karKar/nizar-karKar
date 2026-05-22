@@ -17,7 +17,7 @@ Focused on **LLMs, Agentic AI, and MLOps**, combining strong engineering foundat
 ## 🛠 Tech Stack
 
 - **Languages:** Python, JavaScript  
-- **AI/ML:** LLMs, LangChain, LangGraph, TensorFlow, YOLO, RAG  
+- **AI/ML:** LLMs, LangChain, LangGraph, TensorFlow, RAG  
 - **Backend:** FastAPI, Node.js  
 - **Frontend:** React  
 - **Cloud & DevOps:** AWS, Docker, CI/CD  
